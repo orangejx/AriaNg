@@ -2,14 +2,14 @@ CACHE MANIFEST
 
 CACHE:
 css/aria-ng-1bfa53e627.min.css
-css/bootstrap-3.4.1.min.css
+//cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css
 css/plugins-ccac6fc3fc.min.css
-js/angular-packages-1.6.10.min.js
+//ajax.orangejx.cn/ajax/libs/angularjs/1.6.10/angular.min.js
 js/aria-ng-2d4f618b32.min.js
-js/bootstrap-3.4.1.min.js
-js/echarts-common-3.8.5.min.js
-js/jquery-3.3.1.min.js
-js/moment-with-locales-2.24.0.min.js
+//cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js
+//cdnjs.orangejx.cn/ajax/libs/echarts/3.8.5/echarts.common.min.js
+//ajax.orangejx.cn/ajax/libs/jquery/3.3.1/jquery.min.js
+//cdnjs.orangejx.cn/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js
 js/plugins-a42b0d6763.min.js
 fonts/fontawesome-webfont.woff2
 index.html
